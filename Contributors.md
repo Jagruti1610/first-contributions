@@ -76,7 +76,7 @@ itay-guter
 -[Hugo Bouderlique](https://github.com/HugoBde)
 -[Faheem](https://github.com/codeFaheem)
 -[Donald Riedl](https://github.com/riedldsr)
--[Jagruti Tiwari]
+-[Jagruti Tiwari] (https://github.com/Jagruti1610)
 -[Meet Soni](https://github.com/meetsoni1214)
 -[Ishan Siddiqui](https://github.com/ishan-siddiqui)
 -[Unik Dahal](https://github.com/Unik-Dahal)
@@ -114,7 +114,7 @@ itay-guter
 -[Anas Muhammed]
 -[Seth Weaver] (https://github.com/Seth-Weaver)
 -[Jake Baker] (https://github.com/jakeyeatsteaky)
--[Onkar Kawathe]
+-[Onkar Kawathe] 
 -[Javohir Uralov](https://github.com/javohir101dev/first-contributions) 
 -[JamesLee](https://github.com/Jamesleeeeeee)
 -[M.Robi](https://github.com/BeatBob)
